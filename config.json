@@ -1,0 +1,7 @@
+{
+    "raspberry_pi_host": "raspberry pi host goes here",
+    "x_cord": 400,
+    "y_cord": 700,
+    "off_x": 60,
+    "off_y": 45
+}
